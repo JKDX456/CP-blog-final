@@ -1,0 +1,18 @@
+p{
+    color:green;   
+    font-size: 24px
+}
+h1{
+    color:orange;
+    font-size: 48px;
+}
+h6{
+    font-size: 18px;
+}
+body{
+    font-family: monospace;
+    background-color: cyan;
+}
+li{
+    font-size: 24px;
+}
